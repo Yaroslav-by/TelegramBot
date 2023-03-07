@@ -1,0 +1,54 @@
+2023-03-05 18:50:41 DEBUG TelegramBot:49 - 123
+2023-03-05 18:50:56 DEBUG TelegramBot:49 - abc
+2023-03-05 18:51:57 DEBUG TelegramBot:49 - abc
+2023-03-05 18:58:27 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-05 18:58:38 DEBUG TelegramBot:50 - 654
+2023-03-05 19:09:25 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-05 19:09:44 DEBUG TelegramBot:50 - Hello from chat
+2023-03-05 19:09:45 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-03-05 19:10:12 DEBUG TelegramBot:50 - 123
+2023-03-05 19:10:12 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-03-05 20:01:15 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-05 20:01:21 DEBUG TelegramBot:50 - hello
+2023-03-05 20:01:22 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-03-05 20:13:34 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-05 20:13:38 DEBUG TelegramBot:50 - hello
+2023-03-05 20:13:43 DEBUG TelegramBot:50 - 123
+2023-03-06 22:31:56 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-07 23:22:32 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-07 23:23:05 DEBUG TelegramBot:50 - /info
+2023-03-07 23:23:08 DEBUG TelegramBot:50 - /hello
+2023-03-07 23:23:24 DEBUG TelegramBot:50 - /showinfo
+2023-03-07 23:23:38 DEBUG TelegramBot:50 - /info
+2023-03-07 23:23:43 DEBUG TelegramBot:50 - /hello
+2023-03-07 23:23:48 DEBUG TelegramBot:50 - /showinfo
+2023-03-07 23:25:25 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-07 23:25:28 DEBUG TelegramBot:50 - /info
+2023-03-07 23:25:31 DEBUG TelegramBot:50 - /hello
+2023-03-07 23:25:39 DEBUG TelegramBot:50 - /showinfo
+2023-03-07 23:28:17 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-07 23:28:34 DEBUG TelegramBot:50 - /hello
+2023-03-07 23:28:38 DEBUG TelegramBot:50 - /showinfo
+2023-03-07 23:29:50 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-07 23:30:25 DEBUG TelegramBot:50 - /hello
+2023-03-07 23:30:35 DEBUG TelegramBot:50 - /start
+2023-03-07 23:30:37 DEBUG TelegramBot:50 - /showinfo
+2023-03-07 23:32:35 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-07 23:33:24 DEBUG TelegramBot:50 - Hu
+2023-03-07 23:33:25 DEBUG TelegramBot:50 - Hi
+2023-03-07 23:34:04 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-07 23:34:09 DEBUG TelegramBot:50 - Hi
+2023-03-07 23:34:24 DEBUG TelegramBot:50 - /start
+2023-03-07 23:34:28 DEBUG TelegramBot:50 - /hello
+2023-03-07 23:34:36 DEBUG TelegramBot:50 - Hi
+2023-03-07 23:34:42 DEBUG TelegramBot:50 - /start
+2023-03-07 23:34:44 DEBUG TelegramBot:50 - /showinfo
+2023-03-07 23:43:35 DEBUG TelegramBot:50 - /start
+2023-03-07 23:43:41 DEBUG TelegramBot:50 - /hello
+2023-03-07 23:43:49 DEBUG TelegramBot:50 - /showinfo
+2023-03-07 23:43:58 DEBUG TelegramBot:50 - Gggg
+2023-03-07 23:51:11 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-07 23:51:29 DEBUG TelegramBot:53 - Yaroslav: /hello
+2023-03-07 23:51:34 DEBUG TelegramBot:53 - Yaroslav: /hello
+2023-03-07 23:51:36 DEBUG TelegramBot:53 - Yaroslav: /showinfo
+2023-03-07 23:51:51 DEBUG TelegramBot:53 - Yaroslav: 111
