@@ -52,3 +52,209 @@
 2023-03-07 23:51:34 DEBUG TelegramBot:53 - Yaroslav: /hello
 2023-03-07 23:51:36 DEBUG TelegramBot:53 - Yaroslav: /showinfo
 2023-03-07 23:51:51 DEBUG TelegramBot:53 - Yaroslav: 111
+2023-03-08 00:12:31 DEBUG TelegramBot:39 - TelegramAPI started!
+2023-03-08 00:12:31 DEBUG TelegramBot:53 - Ira: Start
+2023-03-08 00:12:32 DEBUG TelegramBot:53 - Ira: /start
+2023-03-08 00:12:32 DEBUG TelegramBot:53 - Ira: Hi
+2023-03-08 00:13:49 DEBUG TelegramBot:53 - Alexander: /start
+2023-03-08 00:13:52 DEBUG TelegramBot:53 - Alexander: /hello
+2023-03-08 00:13:55 DEBUG TelegramBot:53 - Alexander: /showinfo
+2023-03-08 00:14:31 DEBUG TelegramBot:53 - Alexander: /start
+2023-03-08 00:14:33 DEBUG TelegramBot:53 - Alexander: /start
+2023-03-08 00:14:41 DEBUG TelegramBot:53 - Alexander: zalupa
+2023-03-08 20:29:32 DEBUG TelegramBot:48 - TelegramAPI started!
+2023-03-08 20:29:33 DEBUG TelegramBot:62 - Alexander: /start
+2023-03-08 20:30:00 DEBUG TelegramBot:62 - Yaroslav: /start
+2023-03-08 20:30:28 DEBUG TelegramBot:48 - TelegramAPI started!
+2023-03-08 20:30:32 DEBUG TelegramBot:62 - Yaroslav: /start
+2023-03-08 20:30:34 DEBUG TelegramBot:62 - Yaroslav: /menu
+2023-03-08 20:33:04 DEBUG TelegramBot:48 - TelegramAPI started!
+2023-03-08 20:33:32 DEBUG TelegramBot:48 - TelegramAPI started!
+2023-03-08 20:35:40 DEBUG TelegramBot:48 - TelegramAPI started!
+2023-03-08 20:35:44 DEBUG TelegramBot:62 - Yaroslav: Fff
+2023-03-08 20:39:40 DEBUG TelegramBot:44 - TelegramAPI started!
+2023-03-08 20:39:47 DEBUG TelegramBot:59 - Yaroslav: Ddd
+2023-03-08 20:39:48 DEBUG TelegramBot:59 - Yaroslav: /start
+2023-03-08 20:39:51 DEBUG TelegramBot:59 - Yaroslav: /hello
+2023-03-08 20:39:52 DEBUG TelegramBot:59 - Yaroslav: /showinfo
+2023-03-08 20:39:54 DEBUG TelegramBot:59 - Yaroslav: /menu
+2023-03-08 20:44:25 DEBUG TelegramBot:44 - TelegramAPI started!
+2023-03-08 20:44:31 DEBUG TelegramBot:59 - Yaroslav: /start
+2023-03-08 20:44:32 DEBUG TelegramBot:59 - Yaroslav: /hello
+2023-03-08 20:44:33 DEBUG TelegramBot:59 - Yaroslav: /showinfo
+2023-03-08 20:44:35 DEBUG TelegramBot:59 - Yaroslav: /menu
+2023-03-08 20:51:10 DEBUG TelegramBot:44 - TelegramAPI started!
+2023-03-08 20:51:14 DEBUG TelegramBot:91 - EnglishVocabularypressed the  Вы нажали кнопку 2 button
+2023-03-08 20:51:22 DEBUG TelegramBot:91 - EnglishVocabularypressed the  Вы нажали кнопку 2 button
+2023-03-08 20:52:07 DEBUG TelegramBot:44 - TelegramAPI started!
+2023-03-08 20:52:12 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 2 button
+2023-03-08 20:52:21 DEBUG TelegramBot:60 - Yaroslav: /start
+2023-03-08 20:52:23 DEBUG TelegramBot:60 - Yaroslav: /hello
+2023-03-08 20:52:26 DEBUG TelegramBot:60 - Yaroslav: /showinfo
+2023-03-08 20:52:28 DEBUG TelegramBot:60 - Yaroslav: /menu
+2023-03-08 20:52:34 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 1 button
+2023-03-08 20:52:38 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 2 button
+2023-03-08 20:52:42 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 2 button
+2023-03-08 20:52:44 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 1 button
+2023-03-08 20:52:48 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 2 button
+2023-03-08 21:34:27 DEBUG TelegramBot:60 - Yaroslav: /menu
+2023-03-08 21:34:31 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 2 button
+2023-03-08 21:34:33 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 1 button
+2023-03-08 21:34:36 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 2 button
+2023-03-08 21:35:01 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 1 button
+2023-03-08 21:35:09 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы нажали кнопку 2 button
+2023-03-08 21:35:14 DEBUG TelegramBot:60 - Yaroslav: Sss
+2023-03-08 21:35:19 DEBUG TelegramBot:60 - Yaroslav: /start
+2023-03-08 22:20:49 DEBUG TelegramBot:44 - TelegramAPI started!
+2023-03-08 22:21:00 DEBUG TelegramBot:60 - Yaroslav: /hello
+2023-03-08 22:21:02 DEBUG TelegramBot:60 - Yaroslav: /showinfo
+2023-03-08 22:21:03 DEBUG TelegramBot:60 - Yaroslav: dasd
+2023-03-08 22:21:06 DEBUG TelegramBot:60 - Yaroslav: /menu
+2023-03-08 22:21:08 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы вошли в Словарь! button
+2023-03-08 22:21:13 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы вошли в Упражнения! button
+2023-03-08 22:21:24 DEBUG TelegramBot:91 - EnglishVocabulary pressed the  Вы вошли в Словарь! button
+2023-03-08 22:22:55 DEBUG TelegramBot:44 - TelegramAPI started!
+2023-03-09 23:35:53 DEBUG TelegramBot:48 - TelegramAPI started!
+2023-03-09 23:36:33 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-09 23:36:36 DEBUG TelegramBot:65 - Yaroslav: Словарь
+2023-03-09 23:36:40 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-09 23:36:42 DEBUG TelegramBot:65 - Yaroslav: Словарь
+2023-03-09 23:36:44 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-09 23:36:57 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-09 23:37:05 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-09 23:37:06 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-09 23:37:10 DEBUG TelegramBot:65 - Yaroslav: Словарь
+2023-03-09 23:37:11 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-09 23:37:12 DEBUG TelegramBot:65 - Yaroslav: /info
+2023-03-09 23:37:14 DEBUG TelegramBot:65 - Yaroslav: /hello
+2023-03-09 23:37:16 DEBUG TelegramBot:65 - Yaroslav: /menu
+2023-03-09 23:37:20 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-09 23:37:22 DEBUG TelegramBot:65 - Yaroslav: /hello
+2023-03-09 23:37:23 DEBUG TelegramBot:65 - Yaroslav: Словарь
+2023-03-09 23:37:24 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-09 23:37:27 DEBUG TelegramBot:65 - Yaroslav: Словарь
+2023-03-09 23:37:33 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-09 23:37:43 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-09 23:37:44 DEBUG TelegramBot:65 - Yaroslav: /info
+2023-03-09 23:37:45 DEBUG TelegramBot:65 - Yaroslav: /menu
+2023-03-09 23:51:23 DEBUG TelegramBot:65 - Ira: /start
+2023-03-09 23:51:27 DEBUG TelegramBot:65 - Ira: Словарь
+2023-03-09 23:51:29 DEBUG TelegramBot:65 - Ira: /info
+2023-03-09 23:51:33 DEBUG TelegramBot:65 - Ira: Упражнения
+2023-03-09 23:51:34 DEBUG TelegramBot:65 - Ira: Словарь
+2023-03-10 22:01:42 DEBUG TelegramBot:48 - TelegramAPI started!
+2023-03-10 22:01:49 DEBUG TelegramBot:65 - Yaroslav: /info
+2023-03-10 22:01:53 DEBUG TelegramBot:65 - Yaroslav: /menu
+2023-03-10 22:01:56 DEBUG TelegramBot:65 - Yaroslav: /menu
+2023-03-10 22:02:01 DEBUG TelegramBot:65 - Yaroslav: Словарь
+2023-03-10 22:02:26 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-10 22:02:30 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-10 22:02:42 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-10 22:02:43 DEBUG TelegramBot:65 - Yaroslav: Словарь
+2023-03-10 22:03:39 DEBUG TelegramBot:48 - TelegramAPI started!
+2023-03-10 22:03:50 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-10 22:03:53 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-10 22:03:58 DEBUG TelegramBot:65 - Yaroslav: Словарь
+2023-03-10 22:03:59 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-10 22:06:12 DEBUG TelegramBot:53 - TelegramAPI started!
+2023-03-10 22:06:19 DEBUG TelegramBot:70 - Yaroslav: /start
+2023-03-10 22:06:19 ERROR TelegramBot:93 - java.lang.NullPointerException: Cannot invoke "com.telegram.englishvocabulary.keyboards.MainMenuKeyboard.getMainMenuKeyboard()" because "this.keyboardMarkup" is null
+2023-03-10 22:06:20 DEBUG TelegramBot:70 - Yaroslav: /start
+2023-03-10 22:06:20 ERROR TelegramBot:93 - java.lang.NullPointerException: Cannot invoke "com.telegram.englishvocabulary.keyboards.MainMenuKeyboard.getMainMenuKeyboard()" because "this.keyboardMarkup" is null
+2023-03-10 22:07:28 DEBUG TelegramBot:53 - TelegramAPI started!
+2023-03-10 22:08:00 DEBUG TelegramBot:70 - Yaroslav: /start
+2023-03-10 22:08:00 ERROR TelegramBot:94 - java.lang.NullPointerException: Cannot invoke "com.telegram.englishvocabulary.keyboards.MainMenuKeyboard.getMainMenuKeyboard()" because "this.keyboardMarkup" is null
+2023-03-10 22:09:13 DEBUG TelegramBot:53 - TelegramAPI started!
+2023-03-10 22:09:18 DEBUG TelegramBot:70 - Yaroslav: /start
+2023-03-10 22:09:18 ERROR TelegramBot:94 - java.lang.NullPointerException: Cannot invoke "com.telegram.englishvocabulary.controller.TelegramBot.execute(org.telegram.telegrambots.meta.api.methods.BotApiMethod)" because "telegramBot" is null
+2023-03-10 22:19:04 DEBUG TelegramBot:51 - TelegramAPI started!
+2023-03-10 22:19:35 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 22:19:40 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:19:47 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:19:48 DEBUG TelegramBot:69 - Yaroslav: Упражнения111
+2023-03-10 22:19:49 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:20:47 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 22:20:52 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:20:52 ERROR TelegramBot:93 - java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "this.text" is null
+2023-03-10 22:21:17 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:21:17 ERROR TelegramBot:93 - java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "this.text" is null
+2023-03-10 22:22:54 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 22:23:03 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:23:07 DEBUG TelegramBot:69 - Yaroslav: Упражнения111
+2023-03-10 22:23:08 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:23:16 DEBUG TelegramBot:69 - Ira: Словарь
+2023-03-10 22:23:20 DEBUG TelegramBot:69 - Ira: Упражнения
+2023-03-10 22:23:36 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 22:23:47 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:41:20 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 22:41:30 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:41:31 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:41:34 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:41:35 DEBUG TelegramBot:69 - Yaroslav: Упражнения111
+2023-03-10 22:50:15 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 22:50:23 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:50:25 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:51:15 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 22:51:18 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:51:20 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:51:23 DEBUG TelegramBot:69 - Yaroslav: Добавить новое слово
+2023-03-10 22:51:30 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:51:32 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:53:48 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 22:53:56 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:53:58 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:54:00 DEBUG TelegramBot:69 - Yaroslav: Добавить новое слово
+2023-03-10 22:54:03 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:54:04 DEBUG TelegramBot:69 - Yaroslav: Упражнения111
+2023-03-10 22:54:07 DEBUG TelegramBot:69 - Yaroslav: Получить случайное слово
+2023-03-10 22:54:34 DEBUG TelegramBot:69 - Yaroslav: Получить 10 слов
+2023-03-10 22:54:36 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:54:38 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:54:40 DEBUG TelegramBot:69 - Yaroslav: Добавить новое слово
+2023-03-10 22:56:24 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:56:25 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:56:27 DEBUG TelegramBot:69 - Yaroslav: Добавить новое слово
+2023-03-10 22:56:47 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:56:49 DEBUG TelegramBot:69 - Yaroslav: Упражнения111
+2023-03-10 22:56:50 DEBUG TelegramBot:69 - Yaroslav: Получить 10 слов
+2023-03-10 22:56:54 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 22:56:55 DEBUG TelegramBot:69 - Yaroslav: Словарь111
+2023-03-10 22:56:56 DEBUG TelegramBot:69 - Yaroslav: Добавить случайное слово
+2023-03-10 23:00:49 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 23:02:02 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 23:03:27 DEBUG TelegramBot:52 - TelegramAPI started!
+2023-03-10 23:03:34 DEBUG TelegramBot:69 - Yaroslav: /info
+2023-03-10 23:03:38 DEBUG TelegramBot:69 - Yaroslav: /start
+2023-03-10 23:03:39 DEBUG TelegramBot:69 - Yaroslav: Словарь
+2023-03-10 23:03:42 DEBUG TelegramBot:69 - Yaroslav: Добавить случайное слово
+2023-03-10 23:07:30 DEBUG TelegramBot:69 - Людмила: /start
+2023-03-10 23:07:36 DEBUG TelegramBot:69 - Людмила: Словарь
+2023-03-10 23:07:43 DEBUG TelegramBot:69 - Людмила: Добавить случайное слово
+2023-03-10 23:07:47 DEBUG TelegramBot:69 - Людмила: /start
+2023-03-10 23:07:49 DEBUG TelegramBot:69 - Людмила: Упражнения
+2023-03-10 23:07:54 DEBUG TelegramBot:69 - Людмила: Получить 10 слов
+2023-03-10 23:08:44 DEBUG TelegramBot:69 - Людмила: /info
+2023-03-10 23:08:51 DEBUG TelegramBot:69 - Людмила: /menu
+2023-03-10 23:08:56 DEBUG TelegramBot:69 - Людмила: Упражнения
+2023-03-10 23:08:57 DEBUG TelegramBot:69 - Людмила: Получить случайное слово
+2023-03-10 23:37:07 DEBUG TelegramBot:69 - Alexander: /start
+2023-03-10 23:37:10 DEBUG TelegramBot:69 - Alexander: Словарь
+2023-03-10 23:37:12 DEBUG TelegramBot:69 - Alexander: Добавить случайное слово
+2023-03-10 23:37:27 DEBUG TelegramBot:69 - Alexander: /start
+2023-03-10 23:37:28 DEBUG TelegramBot:69 - Alexander: Упражнения
+2023-03-10 23:37:30 DEBUG TelegramBot:69 - Alexander: Получить случайное слово
+2023-03-10 23:37:32 DEBUG TelegramBot:69 - Alexander: /start
+2023-03-10 23:37:33 DEBUG TelegramBot:69 - Alexander: Упражнения
+2023-03-10 23:37:34 DEBUG TelegramBot:69 - Alexander: Получить 10 слов
+2023-03-10 23:37:36 DEBUG TelegramBot:69 - Alexander: /info
+2023-03-10 23:37:38 DEBUG TelegramBot:69 - Alexander: /menu
+2023-03-10 23:37:40 DEBUG TelegramBot:69 - Alexander: Словарь
+2023-03-10 23:37:42 DEBUG TelegramBot:69 - Alexander: Добавить новое слово
+2023-03-11 13:40:50 DEBUG TelegramBot:48 - TelegramAPI started!
+2023-03-11 13:41:10 DEBUG TelegramBot:65 - Yaroslav: /info
+2023-03-11 13:41:12 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-11 13:41:14 DEBUG TelegramBot:65 - Yaroslav: Словарь
+2023-03-11 13:41:16 DEBUG TelegramBot:65 - Yaroslav: Добавить случайное слово
+2023-03-11 13:41:18 DEBUG TelegramBot:65 - Yaroslav: /start
+2023-03-11 13:41:20 DEBUG TelegramBot:65 - Yaroslav: Упражнения
+2023-03-11 13:41:21 DEBUG TelegramBot:65 - Yaroslav: Получить случайное слово
